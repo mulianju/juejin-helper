@@ -19,7 +19,6 @@ const growth = {
   collectedBug: false, // 是否收集 Bug
   collectBugCount: 0, // 收集 Bug 的数量
 }
-
 const message = () => {
   return `
 Hello ${growth.userName}
